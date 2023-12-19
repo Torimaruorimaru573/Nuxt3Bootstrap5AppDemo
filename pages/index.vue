@@ -129,8 +129,3 @@
     text-align: center;
   }
 </style>
-<script>
-export default {
-  layout: 'default',
-};
-</script>
