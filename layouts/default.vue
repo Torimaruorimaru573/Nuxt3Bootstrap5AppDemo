@@ -1,7 +1,7 @@
 <template>
   <div>
     <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
-      ...
+      about
     </nav>
     <nuxt/>
     <hr>
